@@ -14,6 +14,7 @@
 // get point  in view
 -(void)addPA:(CGPoint)nPoint;//更新坐标
 -(void)addLA;
+
 -(void)revocation;//撤销
 -(void)refrom;//重绘
 -(void)clear;//全部清除
