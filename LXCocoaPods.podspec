@@ -12,4 +12,8 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.ios.deployment_target = "9.0"
 
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 1ab03e0075724769311c06b41bae332c7d9f1ee7
